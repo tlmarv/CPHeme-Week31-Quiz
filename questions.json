@@ -1,3 +1,4 @@
+
 [
 {
     "question": "A patient experiencing nasal congestion after crying asks why their nose becomes stuffy. Which of the following best explains the route of tear drainage leading to this congestion?",
@@ -891,5 +892,401 @@
         ],
         "correctAnswer": 1,
         "explanation": "Aspirin-induced asthma is due to inhibition of cyclooxygenase (COX), which shifts arachidonic acid metabolism toward increased leukotriene production, leading to bronchoconstriction and airway inflammation."
+    },
+    {
+        "question": "A 5-year-old boy presents with nasal congestion, facial pain, and purulent nasal discharge for 12 days. His mother reports that his symptoms worsened after initially improving from a viral upper respiratory infection. Which of the following pathogens is most commonly responsible for this condition?",
+        "choices": [
+            "Streptococcus pneumoniae",
+            "Staphylococcus aureus",
+            "Moraxella catarrhalis",
+            "Streptococcus pyogenes",
+            "Pseudomonas aeruginosa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Acute bacterial rhinosinusitis (ABRS) is most commonly caused by Streptococcus pneumoniae, followed by Haemophilus influenzae and Moraxella catarrhalis. Clues include symptoms persisting for ≥10 days and worsening after initial improvement (“double sickening”)."
+    },
+    {
+        "question": "A 3-year-old child presents with fever, ear pain, and irritability. Otoscopic examination reveals a bulging, erythematous tympanic membrane with obscured landmarks. Which of the following bacteria is the most common cause of this condition?",
+        "choices": [
+            "Pseudomonas aeruginosa",
+            "Streptococcus pyogenes",
+            "Streptococcus pneumoniae",
+            "Haemophilus influenzae type B",
+            "Bordetella pertussis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Acute otitis media (AOM) is most commonly caused by Streptococcus pneumoniae, followed by nontypeable Haemophilus influenzae and Moraxella catarrhalis. Otoscopic findings of a bulging, immobile tympanic membrane are diagnostic."
+    },
+    {
+        "question": "A 45-year-old man with cystic fibrosis presents with ear pain, pruritus, and purulent discharge from the external auditory canal. His condition worsened after recent swimming. Which of the following is the most likely causative pathogen?",
+        "choices": [
+            "Haemophilus influenzae",
+            "Streptococcus pneumoniae",
+            "Pseudomonas aeruginosa",
+            "Moraxella catarrhalis",
+            "Streptococcus pyogenes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pseudomonas aeruginosa is the most common cause of acute otitis externa (swimmer’s ear), especially in patients with cystic fibrosis. It produces grape-like odor, oxidase positivity, and blue-green pigments (pyocyanin, fluorescein)."
+    },
+    {
+        "question": "A 70-year-old man presents with fever, headache, and nuchal rigidity. Lumbar puncture shows pleomorphic, gram-negative coccobacilli. Which of the following additional laboratory findings would confirm the most likely pathogen?",
+        "choices": [
+            "Growth on bile-esculin agar",
+            "Requirement for X (hemin) and V (NAD) factors",
+            "Growth on MacConkey agar",
+            "Beta-hemolysis on blood agar",
+            "Optochin sensitivity"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Haemophilus influenzae is a pleomorphic, gram-negative coccobacillus requiring X (hemin) and V (NAD) factors for growth. It can cause meningitis, epiglottitis, pneumonia, and otitis media."
+    },
+    {
+        "question": "A 6-year-old boy with a history of recurrent ear infections presents with fever, lethargy, and a stiff neck. Lumbar puncture reveals gram-positive, lancet-shaped diplococci. What is the most important virulence factor of the most likely causative organism?",
+        "choices": [
+            "IgA protease",
+            "Capsule",
+            "Lipopolysaccharide (LPS)",
+            "Exotoxin A",
+            "M protein"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Streptococcus pneumoniae is a gram-positive, lancet-shaped diplococcus that causes bacterial meningitis, pneumonia, otitis media, and sinusitis. Its capsule is its major virulence factor, providing resistance to phagocytosis."
+    },
+    {
+        "question": "A 30-year-old woman presents with persistent dry cough following a prolonged upper respiratory infection. A nasopharyngeal swab reveals a small gram-negative coccobacillus that produces a toxin increasing cAMP levels by inactivating Gi protein. Which of the following is the most likely pathogen?",
+        "choices": [
+            "Corynebacterium diphtheriae",
+            "Haemophilus influenzae",
+            "Streptococcus pyogenes",
+            "Bordetella pertussis",
+            "Moraxella catarrhalis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bordetella pertussis causes whooping cough and produces a pertussis toxin, which ADP-ribosylates Gi proteins, leading to increased cAMP and mucus secretion. The pathogen is a small gram-negative coccobacillus."
+    },
+    {
+        "question": "A 7-year-old boy presents with a sore throat, fever, and difficulty swallowing. Examination reveals tonsillar exudates, tender cervical lymphadenopathy, and palatal petechiae. There is no cough. A rapid antigen detection test (RADT) is negative. What is the next best step in management?",
+        "choices": [
+            "Start empiric antibiotics",
+            "Perform a throat culture",
+            "Order a monospot test",
+            "Prescribe a corticosteroid",
+            "Reassure and observe"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Group A Streptococcus (S. pyogenes) pharyngitis presents with fever, tonsillar exudates, tender anterior cervical lymphadenopathy, and palatal petechiae, but without cough. If the rapid antigen detection test (RADT) is negative, a throat culture should be performed to confirm the diagnosis."
+    },
+    {
+        "question": "A 5-year-old girl presents with a persistent cough for three weeks. Her parents report episodes of violent coughing fits followed by a deep inspiratory whoop and post-tussive vomiting. She is unvaccinated. Which of the following is the primary mechanism of action of the toxin responsible for her condition?",
+        "choices": [
+            "Inactivation of elongation factor-2",
+            "Disruption of cytoskeletal polymerization",
+            "ADP-ribosylation of Gαi leading to increased cAMP",
+            "Inactivation of inhibitory neurotransmitter release",
+            "Cleavage of host cell rRNA"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bordetella pertussis produces pertussis toxin, which ADP-ribosylates the Gαi protein, preventing inhibition of adenylate cyclase. This results in increased cAMP levels, leading to mucus secretion and lymphocytosis."
+    },
+    {
+        "question": "A 35-year-old woman presents with a paroxysmal cough lasting four weeks. She has post-tussive vomiting but no fever. A complete blood count reveals marked lymphocytosis. Which of the following additional tests would be most useful to confirm the diagnosis?",
+        "choices": [
+            "Blood culture",
+            "Sputum Gram stain",
+            "Nasopharyngeal swab for PCR",
+            "Bronchoscopy with biopsy",
+            "Chest X-ray"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bordetella pertussis is diagnosed using a nasopharyngeal swab with PCR during early stages or culture on Regan-Lowe medium. The hallmark lymphocytosis is due to pertussis toxin impairing lymphocyte migration into tissues."
+    },
+    {
+        "question": "A 3-year-old boy is diagnosed with whooping cough. Which of the following best describes the clinical progression of this disease?",
+        "choices": [
+            "Paroxysmal cough followed by catarrhal symptoms and gradual resolution",
+            "Catarrhal symptoms, then a paroxysmal cough lasting 2-4 weeks, followed by gradual resolution",
+            "Acute onset of inspiratory stridor followed by persistent productive cough",
+            "High fever and wheezing followed by a dry, non-productive cough",
+            "Recurrent episodes of fever, chills, and cough with sputum production"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pertussis (whooping cough) progresses in three stages: (1) Catarrhal stage (1-2 weeks): mild cough and rhinorrhea; (2) Paroxysmal stage (2-4 weeks): severe paroxysmal coughing with post-tussive vomiting and inspiratory whoop; (3) Convalescent stage: gradual resolution of symptoms over weeks to months."
+    },
+    {
+        "question": "A 6-year-old boy with confirmed Bordetella pertussis infection is started on appropriate antibiotic therapy. Which of the following is the primary goal of antibiotic treatment in this condition?",
+        "choices": [
+            "To eliminate the toxin and prevent further lung damage",
+            "To reduce bacterial transmission and prevent further spread",
+            "To resolve the paroxysmal cough within 24 hours",
+            "To prevent secondary bacterial pneumonia",
+            "To suppress the inflammatory immune response"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Antibiotic treatment with erythromycin (or azithromycin) does not significantly shorten the paroxysmal cough phase, but it is important to reduce bacterial transmission and prevent the spread of pertussis, particularly to unvaccinated individuals."
+    },
+    {
+        "question": "A 38-year-old man with a history of recurrent pneumonia and dyspnea is diagnosed with panacinar emphysema. He does not have a history of smoking. His father developed cirrhosis at a young age. Which of the following is the most likely underlying cause of his condition?",
+        "choices": [
+            "Chronic exposure to environmental pollutants",
+            "Cystic fibrosis transmembrane conductance regulator (CFTR) mutation",
+            "Deficiency of α1-antitrypsin",
+            "Chronic viral hepatitis",
+            "Abnormal surfactant metabolism"
+        ],
+        "correctAnswer": 2,
+        "explanation": "α1-antitrypsin deficiency (AATD) leads to unopposed elastase activity, causing panacinar emphysema, especially in the lower lung zones. It is a systemic condition that can also cause liver disease (cirrhosis) due to α1-antitrypsin accumulation in hepatocytes."
+    },
+    {
+        "question": "A 62-year-old man with chronic obstructive pulmonary disease (COPD) undergoes pulmonary function testing. Which of the following findings would be expected?",
+        "choices": [
+            "Decreased total lung capacity (TLC)",
+            "Decreased functional residual capacity (FRC)",
+            "Decreased residual volume (RV)",
+            "Increased residual volume/total lung capacity (RV/TLC) ratio",
+            "Normal forced expiratory volume in one second (FEV1)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "COPD leads to increased lung hyperinflation, characterized by increased residual volume (RV), total lung capacity (TLC), and functional residual capacity (FRC). The RV/TLC ratio is also increased, reflecting air trapping."
+    },
+    {
+        "question": "A 55-year-old man with a history of smoking presents for routine spirometry. His FEV1/FVC ratio is 65%, and his FEV1 is 75% of predicted. According to the GOLD criteria, how would his COPD severity be classified?",
+        "choices": [
+            "Mild",
+            "Moderate",
+            "Severe",
+            "Very severe",
+            "Restrictive lung disease"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The GOLD criteria classify COPD severity based on FEV1 in patients with an FEV1/FVC ratio < 70%:\n\n- Mild: FEV1 ≥ 80%\n- Moderate: 50% ≤ FEV1 < 80%\n- Severe: 30% ≤ FEV1 < 50%\n- Very severe: FEV1 < 30%\n\nThis patient falls into the moderate category."
+    },
+    {
+        "question": "A 60-year-old woman with COPD is undergoing a review of her treatment plan. Which of the following non-pharmacologic interventions has been shown to reduce mortality in COPD patients?",
+        "choices": [
+            "Annual influenza vaccination",
+            "Pulmonary rehabilitation",
+            "Nutritional supplementation",
+            "Long-term oxygen therapy",
+            "Psychosocial counseling"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Long-term oxygen therapy (LTOT) is the only non-pharmacologic intervention shown to improve survival in COPD patients with chronic hypoxemia. Indications include PaO2 ≤ 55 mmHg or SaO2 ≤ 88%."
+    },
+    {
+        "question": "A 70-year-old man with COPD has a history of multiple episodes of pneumonia. He is currently on a long-acting β2-agonist and inhaled corticosteroids (ICS). His blood eosinophil count is 200 cells/μL, and he has no history of asthma. Which of the following is the most appropriate next step in management?",
+        "choices": [
+            "Continue inhaled corticosteroids",
+            "Discontinue inhaled corticosteroids",
+            "Increase the dose of inhaled corticosteroids",
+            "Add a leukotriene receptor antagonist",
+            "Start a biologic therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Inhaled corticosteroids (ICS) should be avoided in COPD patients with:\n\n1. Repeated pneumonia events\n2. Blood eosinophil count < 300 cells/μL\n3. History of mycobacterial infection\n\nSince this patient has a history of pneumonia and low eosinophils, ICS should be discontinued to reduce infection risk."
+    },
+    {
+        "question": "A 12-year-old boy presents with red, watery eyes and a foreign body sensation. He recently swam in a public pool. Examination shows bilateral conjunctival injection and watery discharge, with no purulent exudate. His right eye was affected first, and now the left eye is involved. Which of the following is the most likely causative agent?",
+        "choices": [
+            "Adenovirus type 8",
+            "Haemophilus influenzae",
+            "Streptococcus pneumoniae",
+            "Neisseria gonorrhoeae",
+            "Herpes simplex virus"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Epidemic keratoconjunctivitis (pink eye) is caused by Adenovirus type 8 and is highly contagious, often spreading via close hand-to-eye contact or contaminated swimming pools. It commonly starts in one eye before affecting the other. The infection can persist on surfaces for a month."
+    },
+    {
+        "question": "A 9-year-old girl presents with fever, sore throat, and mild conjunctivitis. Examination reveals cervical lymphadenopathy and mild eye redness, but no significant eye pain. She recently attended summer camp. Which of the following is the most likely causative agent?",
+        "choices": [
+            "Adenovirus type 8",
+            "Adenovirus type 3",
+            "Coxsackie A virus",
+            "Epstein-Barr virus",
+            "Herpes simplex virus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pharyngoconjunctival fever is caused by Adenovirus type 3 and presents with mild conjunctivitis, pharyngitis, fever, and lymphadenopathy. It is less severe than epidemic keratoconjunctivitis and is commonly transmitted in crowded settings like summer camps and schools."
+    },
+    {
+        "question": "A 2-year-old boy presents to the emergency department with a barking cough, inspiratory stridor, and hoarseness. His symptoms worsen at night. A lateral neck X-ray shows subglottic narrowing (steeple sign). Which of the following is the most likely causative pathogen?",
+        "choices": [
+            "Influenza virus",
+            "Respiratory syncytial virus (RSV)",
+            "Parainfluenza virus type 1",
+            "Adenovirus",
+            "Streptococcus pyogenes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Laryngotracheobronchitis (croup) is most commonly caused by Parainfluenza virus types 1 & 3. It presents with a barking cough, inspiratory stridor, and subglottic edema, leading to the characteristic steeple sign on X-ray."
+    },
+    {
+        "question": "A 15-month-old boy presents with fever, hoarseness, and a harsh barking cough. The parents report that his breathing improved after exposure to cold night air. Which of the following is the best initial treatment for this condition?",
+        "choices": [
+            "Intravenous ceftriaxone",
+            "Nebulized albuterol",
+            "Intravenous dexamethasone and racemic epinephrine",
+            "Oral dexamethasone and humidified air",
+            "Endotracheal intubation"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mild croup (Westley score <2) can be treated with oral dexamethasone and humidified air. If symptoms are more severe (e.g., persistent stridor at rest), nebulized racemic epinephrine is added."
+    },
+    {
+        "question": "A 10-month-old infant is brought to the ER in December with a brassy cough, inspiratory stridor, and respiratory distress. Which of the following is the most important reason for hospitalization in this condition?",
+        "choices": [
+            "The presence of a steeple sign on X-ray",
+            "Oxygen saturation <90%",
+            "A barking cough that worsens at night",
+            "Stridor that resolves after nebulized epinephrine",
+            "A history of prior croup infections"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Severe croup requires hospitalization if the patient has hypoxia (O2 saturation <90%), severe respiratory distress, or altered consciousness. The steeple sign is characteristic but not an indication for hospitalization."
+    },
+    {
+        "question": "A 6-year-old boy presents with fever, sore throat, nasal congestion, and a dry cough that started three days ago. His mother states that several classmates have had similar symptoms. Examination reveals mild pharyngeal erythema but no exudates. Which of the following best describes the primary pathophysiologic mechanism of this virus?",
+        "choices": [
+            "Destruction of pneumocytes via exotoxin release",
+            "Necrotizing bronchiolitis with ciliary destruction",
+            "Inhibition of host protein synthesis via ADP-ribosylation",
+            "Endotoxin-mediated capillary leak",
+            "Impairment of alveolar macrophage function"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Influenza virus causes necrotizing bronchiolitis and destroys the cilia of respiratory epithelial cells, impairing mucociliary clearance. This predisposes patients to secondary bacterial infections (e.g., S. pneumoniae, S. aureus)."
+    },
+    {
+        "question": "A 45-year-old man presents with fever, nonproductive cough, and myalgia for four days. A rapid influenza test is positive. Which of the following antiviral treatments is appropriate for this patient?",
+        "choices": [
+            "Acyclovir",
+            "Ribavirin",
+            "Oseltamivir",
+            "Ganciclovir",
+            "Fluconazole"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Oseltamivir is a neuraminidase inhibitor that prevents influenza virus release from infected cells. It is effective if given within 48 hours of symptom onset."
+    },
+    {
+        "question": "A 75-year-old woman with COPD presents with fever, dyspnea, and a nonproductive cough in December. Chest X-ray shows bilateral interstitial infiltrates. PCR testing detects influenza A virus. Which of the following is the best next step in management?",
+        "choices": [
+            "Supportive care only",
+            "Neuraminidase inhibitor therapy",
+            "High-dose corticosteroids",
+            "Empiric antibiotic therapy alone",
+            "Immediate bronchoscopy with lavage"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Neuraminidase inhibitors (oseltamivir, zanamivir, peramivir) are indicated in influenza pneumonia, particularly in high-risk patients (e.g., elderly, COPD, immunocompromised). They reduce disease severity and duration."
+    },
+    {
+        "question": "A 2-month-old infant presents in January with tachypnea, nasal flaring, and diffuse crackles on lung examination. PCR testing confirms respiratory syncytial virus (RSV). Which of the following best describes the expected laboratory findings?",
+        "choices": [
+            "Elevated WBC with neutrophilia",
+            "Elevated WBC with eosinophilia",
+            "Normal or low WBC count",
+            "Elevated WBC with monocytosis",
+            "Elevated WBC with bandemia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Viral pneumonia, including RSV pneumonia, typically presents with a gradual onset, nonproductive cough, and normal to low WBC count. This contrasts with bacterial pneumonia, which often causes leukocytosis with neutrophilia."
+    },
+    {
+        "question": "A 4-year-old boy is brought to the emergency department with progressive cough, tachypnea, and bilateral rales. His parents report that several children at his daycare have had similar symptoms. Which of the following is the best initial diagnostic test?",
+        "choices": [
+            "Chest X-ray",
+            "Blood cultures",
+            "Sputum Gram stain",
+            "PCR for respiratory viruses",
+            "Serum procalcitonin"
+        ],
+        "correctAnswer": 3,
+        "explanation": "PCR testing for respiratory viruses is the preferred diagnostic test for viral pneumonia in children. Chest X-ray may show bilateral infiltrates, but it is not specific. Procalcitonin is more useful for bacterial infections."
+    },
+    {
+        "question": "A 70-year-old man with influenza pneumonia is hospitalized and requires supplemental oxygen. He does not produce sputum for culture. Which of the following is the most appropriate next step?",
+        "choices": [
+            "Empiric antibiotics",
+            "Bronchoscopy with lavage",
+            "High-dose corticosteroids",
+            "Observation without intervention",
+            "Antifungal therapy"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Empiric antibiotic therapy is recommended in influenza pneumonia when a bacterial co-infection is suspected but no sputum sample is available. Streptococcus pneumoniae and Staphylococcus aureus are common secondary bacterial pathogens."
+    },
+    {
+        "question": "A 68-year-old man with COPD is evaluated in the clinic. His symptoms are well-controlled, and he has had no hospitalizations or exacerbations in the past year. His COPD Assessment Test (CAT) score is 8. According to the GOLD guidelines, which of the following is the most appropriate initial treatment?",
+        "choices": [
+            "Short- or long-acting bronchodilator",
+            "Long-acting muscarinic antagonist (LAMA) alone",
+            "LAMA + long-acting β2-agonist (LABA)",
+            "LAMA + LABA + inhaled corticosteroid (ICS)",
+            "Phosphodiesterase-4 (PDE-4) inhibitor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "This patient falls into GOLD Group A, which includes patients with few symptoms (CAT <10) and no hospitalizations or exacerbations in the past year. These patients should be started on a short- or long-acting bronchodilator as needed."
+    },
+    {
+        "question": "A 55-year-old woman with COPD has a CAT score of 12 and has had no hospitalizations or exacerbations in the past year. According to the GOLD guidelines, which of the following is the most appropriate pharmacologic treatment?",
+        "choices": [
+            "Short-acting β2-agonist (SABA) only",
+            "Long-acting muscarinic antagonist (LAMA) alone",
+            "LAMA + long-acting β2-agonist (LABA)",
+            "LAMA + LABA + inhaled corticosteroid (ICS)",
+            "PDE-4 inhibitor"
+        ],
+        "correctAnswer": 2,
+        "explanation": "GOLD Group B includes patients with many symptoms (CAT ≥10) but no hospitalizations or frequent exacerbations. These patients benefit from LAMA + LABA therapy, which improves lung function and reduces exacerbations."
+    },
+    {
+        "question": "A 64-year-old man with severe COPD has had two hospitalizations for COPD exacerbations in the past year. His blood eosinophil count is 350 cells/μL. According to GOLD guidelines, which of the following is the most appropriate next step in treatment?",
+        "choices": [
+            "LAMA monotherapy",
+            "LAMA + LABA",
+            "LAMA + LABA + ICS",
+            "PDE-4 inhibitor",
+            "Macrolide therapy"
+        ],
+        "correctAnswer": 2,
+        "explanation": "GOLD Group E includes patients with ≥2 exacerbations or ≥1 hospitalization in the past year. The recommended first-line therapy is LAMA + LABA, and if blood eosinophils are >300 cells/μL, ICS should be added."
+    },
+    {
+        "question": "A 60-year-old man with COPD is started on roflumilast, a phosphodiesterase-4 (PDE-4) inhibitor. Which of the following best describes its mechanism of action?",
+        "choices": [
+            "Blocks leukotriene receptors to reduce inflammation",
+            "Inhibits mast cell degranulation to prevent bronchospasm",
+            "Increases intracellular cAMP to reduce neutrophilic inflammation",
+            "Directly relaxes bronchial smooth muscle to increase airflow",
+            "Prevents mucus hypersecretion by inhibiting goblet cells"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Roflumilast is a PDE-4 inhibitor that increases cAMP levels, leading to reduced neutrophilic and eosinophilic inflammation in the lungs. It is used to reduce exacerbations in patients with severe COPD and chronic bronchitis."
+    },
+    {
+        "question": "A 72-year-old woman with severe COPD and chronic bronchitis is started on roflumilast. Which of the following is the most common side effect of this medication?",
+        "choices": [
+            "Hypokalemia",
+            "Xerostomia",
+            "Weight loss",
+            "Bradycardia",
+            "Hyperglycemia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Roflumilast commonly causes weight loss, nausea, and suicidal thoughts. Because of these side effects, it is reserved for patients with frequent exacerbations despite maximal inhaler therapy."
+    },
+    {
+        "question": "A patient with COPD is started on a long-acting muscarinic antagonist (LAMA). Which of the following adverse effects is most commonly associated with this medication?",
+        "choices": [
+            "Cough",
+            "Bitter taste and dry mouth",
+            "Worsening hypoxemia",
+            "Increased heart rate",
+            "Hypotension"
+        ],
+        "correctAnswer": 1,
+        "explanation": "LAMAs (e.g., tiotropium, aclidinium, glycopyrrolate, umeclidinium) can cause bitter taste and xerostomia (dry mouth). They help delay exacerbations but have a smaller effect on FEV1 compared to LABAs."
     }
 ]
