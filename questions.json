@@ -1158,7 +1158,7 @@
         "explanation": "Influenza virus causes necrotizing bronchiolitis and destroys the cilia of respiratory epithelial cells, impairing mucociliary clearance. This predisposes patients to secondary bacterial infections (e.g., S. pneumoniae, S. aureus)."
     },
     {
-        "question": "A 45-year-old man presents with fever, nonproductive cough, and myalgia for four days. A rapid influenza test is positive. Which of the following antiviral treatments is appropriate for this patient?",
+        "question": "A 45-year-old man presents with fever, nonproductive cough, and myalgia for the last 24 hours. A rapid influenza test is positive. Which of the following antiviral treatments is appropriate for this patient?",
         "choices": [
             "Acyclovir",
             "Ribavirin",
