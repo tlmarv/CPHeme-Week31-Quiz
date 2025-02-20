@@ -1288,5 +1288,197 @@
         ],
         "correctAnswer": 1,
         "explanation": "LAMAs (e.g., tiotropium, aclidinium, glycopyrrolate, umeclidinium) can cause bitter taste and xerostomia (dry mouth). They help delay exacerbations but have a smaller effect on FEV1 compared to LABAs."
+    },
+    {
+        "question": "A 10-year-old boy presents with episodes of wheezing, cough, and shortness of breath that worsen at night and after playing soccer. His symptoms improve with a bronchodilator. Which of the following best describes the three general components of asthma?",
+        "choices": [
+            "Airway inflammation, mucus hypersecretion, and loss of elastic recoil",
+            "Bronchial hyperreactivity, airway inflammation, and increased mucus production",
+            "Airway remodeling, ciliary dysfunction, and alveolar destruction",
+            "Bronchospasm, decreased compliance, and increased residual volume",
+            "Goblet cell hyperplasia, neutrophilic infiltration, and smooth muscle atrophy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Asthma is characterized by bronchial hyperreactivity, airway inflammation, and increased mucus production. These components lead to episodic airflow obstruction and reversible airway narrowing in response to triggers such as allergens, exercise, or viral infections."
+    },
+    {
+        "question": "A 14-year-old boy with a history of exercise-induced asthma undergoes pulmonary function testing (PFTs). His pre-bronchodilator FEV1 is 68% of predicted, and post-bronchodilator testing shows a 15% increase in FEV1 and an absolute increase of 250 mL. Which of the following is the next best step in management?",
+        "choices": [
+            "Diagnose asthma and start inhaled corticosteroids",
+            "Order a methacholine challenge test",
+            "Repeat spirometry in 6 months",
+            "Perform bronchoscopy to evaluate airway obstruction",
+            "Initiate leukotriene receptor antagonist therapy only"
+        ],
+        "correctAnswer": 0,
+        "explanation": "A significant bronchodilator response is defined as a ≥12% increase in FEV1 and an absolute increase of ≥200 mL. This confirms reversible airflow obstruction, consistent with an asthma diagnosis. The next step is to initiate controller therapy with an inhaled corticosteroid (ICS)."
+    },
+    {
+        "question": "A 35-year-old woman presents with episodes of dyspnea and inspiratory stridor that occur during emotional stress and exercise but do not respond to bronchodilators. Pulmonary function testing reveals a flattened inspiratory loop, and direct laryngoscopy during an episode shows vocal cord adduction. What is the most likely diagnosis?",
+        "choices": [
+            "Asthma",
+            "Vocal cord dysfunction",
+            "Chronic obstructive pulmonary disease",
+            "Bronchiectasis",
+            "Pulmonary embolism"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vocal cord dysfunction (VCD) is characterized by paradoxical vocal cord adduction, leading to episodic dyspnea, inspiratory stridor, and throat tightness. Unlike asthma, VCD shows a flattened inspiratory loop on PFTs and does not improve with bronchodilators."
+    },
+    {
+        "question": "A 50-year-old man presents with recurrent episodes of wheezing and shortness of breath. He was recently treated for gastroesophageal reflux disease (GERD) but continues to have symptoms. Pulmonary function testing shows an FEV1/FVC ratio of 0.85 with no response to bronchodilators. Which of the following is the most appropriate next step?",
+        "choices": [
+            "Trial of inhaled corticosteroids",
+            "Methacholine challenge test",
+            "Bronchoscopy with biopsy",
+            "Start long-acting beta-agonist therapy",
+            "Empiric treatment for eosinophilic asthma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Methacholine challenge testing is used when asthma is suspected but spirometry is normal or non-diagnostic. A positive test shows a ≥20% decrease in FEV1 after methacholine administration, indicating bronchial hyperreactivity."
+    },
+    {
+        "question": "A 17-year-old girl with a history of intermittent asthma is evaluated for increasing symptoms. She reports using her short-acting beta-agonist (SABA) four times per week and has awakened at night twice in the past month due to coughing. Spirometry shows an FEV1 of 75% of predicted with reversible airflow obstruction. Which of the following is the most appropriate next step?",
+        "choices": [
+            "Continue as-needed SABA only",
+            "Initiate daily low-dose inhaled corticosteroid (ICS)",
+            "Start long-acting beta-agonist (LABA) monotherapy",
+            "Prescribe leukotriene receptor antagonist alone",
+            "Refer for allergen immunotherapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "This patient has mild persistent asthma, characterized by symptoms >2 days per week but not daily and nighttime awakenings 3-4 times per month. Daily low-dose ICS is the preferred controller therapy to reduce airway inflammation and prevent exacerbations."
+    },
+    {
+        "question": "A 12-year-old boy with asthma is prescribed a pressurized metered-dose inhaler (pMDI) with albuterol. Which of the following is the best way to ensure optimal medication delivery?",
+        "choices": [
+            "Instruct the patient to exhale fully before inhaling the medication",
+            "Use a spacer device with the inhaler",
+            "Rinse the mouth with water after each use",
+            "Shake the inhaler after each inhalation",
+            "Avoid using a breath-hold technique"
+        ],
+        "correctAnswer": 1,
+        "explanation": "pMDIs require coordination between inhalation and actuation. Spacers help optimize drug delivery by reducing oropharyngeal deposition, improving lung deposition, and minimizing systemic side effects."
+    },
+    {
+        "question": "A 16-year-old girl with moderate persistent asthma is prescribed a dry powder inhaler (DPI) containing a combination of inhaled corticosteroid (ICS) and long-acting β2-agonist (LABA). What is the most important counseling point for this patient?",
+        "choices": [
+            "Use a spacer to improve medication delivery",
+            "Rinse mouth with water after each use",
+            "Administer medication via a nebulizer instead",
+            "Shake the inhaler before each use",
+            "Use this medication only as needed for symptom relief"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dry powder inhalers (DPIs) deliver inhaled corticosteroids (ICS), which can cause oropharyngeal candidiasis (thrush). Patients should rinse their mouth after use to prevent fungal overgrowth."
+    },
+    {
+        "question": "A 10-year-old boy with mild persistent asthma has symptoms more than twice per week but not daily, with nighttime awakenings 2-3 times per month. His FEV1 is 85% of predicted. According to the stepwise approach, which of the following is the most appropriate controller therapy?",
+        "choices": [
+            "Short-acting β2-agonist (SABA) only",
+            "Daily low-dose inhaled corticosteroid (ICS)",
+            "Daily leukotriene receptor antagonist",
+            "Daily ICS + long-acting β2-agonist (LABA)",
+            "Oral corticosteroids"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mild persistent asthma is managed with Step 2 therapy: daily low-dose ICS and PRN SABA. This reduces airway inflammation and improves long-term control."
+    },
+    {
+        "question": "A 15-year-old boy presents with daily asthma symptoms, nighttime awakenings once per week, and daily use of short-acting β2-agonists (SABA). His FEV1 is 65% of predicted. According to current asthma guidelines, which of the following is the most appropriate stepwise treatment?",
+        "choices": [
+            "Daily low-dose ICS only",
+            "Daily medium-dose ICS",
+            "Daily and PRN low-dose ICS + formoterol",
+            "Daily ICS + oral corticosteroids",
+            "PRN SABA only"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Moderate persistent asthma (FEV1 60-80%) is managed with Step 3 therapy: daily and PRN low-dose ICS + formoterol. This approach improves symptom control and prevents exacerbations."
+    },
+    {
+        "question": "A 45-year-old man with severe persistent asthma reports symptoms throughout the day, SABA use daily, and severe limitation in normal activities. Spirometry shows FEV1 < 60% of predicted. Which of the following is the most appropriate stepwise treatment?",
+        "choices": [
+            "Daily low-dose ICS + PRN SABA",
+            "Daily medium-dose ICS + LABA",
+            "Daily and PRN medium-dose ICS + formoterol",
+            "Daily oral corticosteroids",
+            "Daily ICS + leukotriene receptor antagonist"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Severe persistent asthma (FEV1 < 60%) is managed with Step 4 therapy: daily and PRN medium-dose ICS + formoterol. This regimen reduces inflammation and airway hyperreactivity while preventing severe exacerbations."
+    },
+    {
+        "question": "A 58-year-old woman with asthma has had two exacerbations requiring oral corticosteroids in the past year. Which of the following is the most significant risk associated with multiple steroid-dependent exacerbations?",
+        "choices": [
+            "Increased risk of hospitalization",
+            "Progression to restrictive lung disease",
+            "Development of vocal cord dysfunction",
+            "Decreased risk of future exacerbations",
+            "Increased risk of bronchiectasis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Frequent exacerbations requiring oral corticosteroids are a strong predictor of future asthma-related hospitalization. These patients may require step-up therapy to reduce the risk of life-threatening attacks."
+    },
+    {
+        "question": "A 45-year-old man presents to his primary care physician requesting help to quit smoking. He smokes one pack per day and has a history of depression. He previously attempted to quit using nicotine patches but relapsed due to cravings and irritability. Which of the following pharmacologic interventions would be the most appropriate choice for this patient?",
+        "choices": [
+            "Nicotine gum",
+            "Varenicline",
+            "Bupropion",
+            "Nortriptyline",
+            "Clonidine"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI) and nicotinic acetylcholine receptor antagonist. It is particularly useful for patients with a history of depression, as it can help mitigate withdrawal-associated dysphoria. It is also weight-neutral, making it a good option for patients concerned about post-cessation weight gain."
+    },
+    {
+        "question": "A 38-year-old woman presents for smoking cessation counseling. She has tried quitting multiple times but relapsed due to strong cravings. She is interested in a medication that directly reduces the pleasurable effects of nicotine. Which of the following is the best choice?",
+        "choices": [
+            "Bupropion",
+            "Varenicline",
+            "Nicotine nasal spray",
+            "Clonidine",
+            "Nortriptyline"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Varenicline is a partial agonist of the nicotinic acetylcholine receptor (nAChR), reducing cravings while simultaneously blocking nicotine’s rewarding effects. It is considered the most effective monotherapy for smoking cessation but should be used with caution in patients with a history of psychiatric illness or suicidal ideation."
+    },
+    {
+        "question": "A 50-year-old man with chronic obstructive pulmonary disease (COPD) is motivated to quit smoking. He has no history of depression or psychiatric illness. His physician prescribes a combination of nicotine patches and nicotine gum. Which of the following best explains the rationale for this approach?",
+        "choices": [
+            "Patches provide long-term nicotine levels while gum provides rapid relief of cravings",
+            "Patches prevent weight gain while gum reduces withdrawal-related anxiety",
+            "Gum provides steady-state nicotine while patches deliver rapid bursts of nicotine",
+            "Combination therapy is only used for patients who fail monotherapy",
+            "Nicotine gum alone is more effective than nicotine patches alone"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Combination nicotine replacement therapy (NRT) is more effective than monotherapy. Nicotine patches provide a steady baseline nicotine level, while gum or lozenges offer rapid relief for breakthrough cravings. This approach improves adherence and success rates."
+    },
+    {
+        "question": "A 21-year-old college student presents for a routine physical. He does not smoke cigarettes but reports using vape pens daily. He believes vaping is completely safe. What is the most appropriate response from his physician?",
+        "choices": [
+            "Vaping is completely safe and does not pose long-term health risks",
+            "Vaping is safer than smoking but still carries health risks",
+            "Vaping is more harmful than smoking traditional cigarettes",
+            "Vaping is only dangerous for pregnant women",
+            "Vaping is an FDA-approved smoking cessation method"
+        ],
+        "correctAnswer": 1,
+        "explanation": "According to the CDC, vaping is less harmful than smoking but not completely safe. Vaping exposes users to nicotine, heavy metals, and toxic chemicals, and can lead to lung injury (EVALI). It is not an FDA-approved smoking cessation tool but may be beneficial for adults transitioning from cigarettes."
+    },
+    {
+        "question": "A 62-year-old woman has a long-standing history of smoking and has attempted to quit multiple times without success. Her physician engages her in motivational interviewing (MI). Which of the following statements is most consistent with this technique?",
+        "choices": [
+            "\"If you cared about your health, you would quit smoking.\"",
+            "\"Quitting smoking is the only way you can avoid getting lung cancer.\"",
+            "\"Many people need multiple attempts to quit. What do you think might help you this time?\"",
+            "\"You should feel ashamed of how much you smoke.\"",
+            "\"Nicotine is not that addictive, so quitting should not be too difficult.\""
+        ],
+        "correctAnswer": 2,
+        "explanation": "Motivational interviewing (MI) is a patient-centered, non-confrontational approach that enhances self-efficacy and encourages behavior change. It avoids shaming or pressuring the patient and instead focuses on collaboration and empowerment."
     }
 ]
